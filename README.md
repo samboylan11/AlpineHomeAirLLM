@@ -8,7 +8,7 @@ Codebase that allows you to create chatbots for any webpage (Currently Specific 
 
 ## Features
 
-- Scrape any page on Learning Center and create a Chatbot from it.
+- Scrape any page from Alpine Home Air Learning Center and create a Chatbot from it.
 - Scrape all pages from Learning Center and create a Chatbot from it.
 
 ## Installation
