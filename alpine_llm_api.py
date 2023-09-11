@@ -54,7 +54,7 @@ if index_name not in pinecone.list_indexes():
 index = pinecone.Index(index_name)
 
 # Scrape from any URL and extract the Text.
-# TODO: Various preprocessing techniques to clean the scraped webpage data.
+# TODO: Preprocessing Techniques to clean the scraped webpage data.
 def scrape_text_from_url(url):
     # Fetch HTML content from URL
     try:
