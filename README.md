@@ -2,13 +2,6 @@
 
 > Chatbot for Alpine Home Air Learning Center.
 
-## Table of Contents
-
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Credits](#credits)
-
 ## Introduction
 
 Codebase that allows you to create chatbots for any webpage (Currently Specific to Alpine Home Air) and some experiental trials on ingesting all documents in file llm_sitemap_scrape.py.
