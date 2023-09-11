@@ -28,7 +28,7 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
 PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV')
 
-# Instantiate Embeddings Object from OpenAI
+# Instantiate Embeddings from OpenAI
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
 # Instantiate ChatGPT LLM
