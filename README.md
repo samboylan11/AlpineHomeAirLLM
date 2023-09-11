@@ -23,7 +23,9 @@ Codebase that allows you to create chatbots for any webpage (Currently Specific 
 \`\`\`bash
 # Pip install all required packages
 pip install -r requirements.txt
+\`\`\`
 
+\`\`\`bash
 # Run FastAPI with uvicorn for scale
 uvicorn alpine_llm_api:app --host 0.0.0.0 --reload --port 5000
 \`\`\`
