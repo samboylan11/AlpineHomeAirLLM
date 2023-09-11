@@ -80,7 +80,7 @@ class ChatInput(BaseModel):
     web_url: str
 
 # LLM Chat API Endpoint
-@app.post("/chat/", response_class=PlainTextResponse)
+@app.post("/chat", response_class=PlainTextResponse)
 async def chat(chat_input: ChatInput):
     
     # Re-init pinecoin, sometimes there is an issue where it doesnt fetch latest created index on pinecone, so re-initializing on call is the fix for now.
