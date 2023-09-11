@@ -21,7 +21,7 @@ Codebase that allows you to create chatbots for any webpage (Currently Specific 
 ## Installation
 
 ```<python>
-# Install all python packages required
+# Install required python packages
 pip install -r requirements.txt
 
 # Run uvicorn to scale and deploy API
