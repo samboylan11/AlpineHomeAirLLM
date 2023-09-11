@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Codebase that allows you to create chatbots for any webpage (Currently Specific to Alpine Home Air). Some experiental trials on ingesting all documents in file llm_sitemap_scrape.py.
+Codebase that allows you to create chatbots for any webpage (Currently Specific to Alpine Home Air) and some experiental trials on ingesting all documents in file llm_sitemap_scrape.py.
 
 ## Features
 
